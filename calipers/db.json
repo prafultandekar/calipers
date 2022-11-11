@@ -1,0 +1,50 @@
+{
+  
+    "men": [
+      {
+        "id": 1,
+        
+        "image": "https://nowafarms.in/assets/img/gallery/01.jpg"
+        
+      },
+      {
+        "id": 2,
+        
+        "image": "https://nowafarms.in/assets/img/gallery/aa1.jpg"     
+      },
+      {
+        "id": 3,
+        
+        "image": "https://nowafarms.in/assets/img/gallery/aa2.jpg"     
+      },
+      {
+        "id": 4,
+        
+        "image": "https://nowafarms.in/assets/img/gallery/aa3.jpg" 
+      },
+      {
+        "id": 5,
+        
+        "image": "https://nowafarms.in/assets/img/about/nowafarm.jpg"
+        
+      },
+      {
+        "id": 5,
+        
+        "image": "https://nowafarms.in/assets/img/gallery/g2.jpg"
+        
+      },
+      {
+        "id": 5,
+        
+        "image": "https://nowafarms.in/assets/img/gallery/gg3.jpg"
+        
+      },
+      {
+        "id": 5,
+        
+        "image": "https://nowafarms.in/assets/img/gallery/gg4.jpg"
+        
+      }
+    ]
+}
